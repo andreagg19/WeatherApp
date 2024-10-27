@@ -1,0 +1,1 @@
+        fetch(`http://api.weatherstack.com/current?access_key=53746ba886546fa5b76f11b53f6a8d9a&query=${city}`)
